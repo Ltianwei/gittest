@@ -2,6 +2,7 @@ package test;
 
 public class Test3 {
     public static void main(String[] args) {
+        System.out.println("登录模块");
         System.out.println("支付模块");
     }
 }
